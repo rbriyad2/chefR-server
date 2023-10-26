@@ -1,0 +1,133 @@
+[
+    {
+      "_id": "651988ed23d311d253a3dfe7",
+      "picture": "../public/images/chef1.jpg",
+      "Exxprience": 2,
+      "name": "Harmon Wright",
+      "recipes": "Chiners",
+      "Fooditems": ["Fryedrice", "Burger", "Snacks","Cold Coffe","Chiken Ball"],
+      "Likes": "500",
+      "Recipe": ["Bangladeshi", "Chinese", "Indian"],
+      "foodImage": ["../src/assets/foodimg/f1.jpeg", "../src/assets/foodimg/f2.jpeg", "../src/assets/foodimg/f3.jpeg","../src/assets/foodimg/f4.jpeg", "../src/assets/foodimg/f5.jpeg","../src/assets/foodimg/f6.jpeg", "../src/assets/foodimg/f7.jpeg"]
+    },
+    {
+        "_id": "661988ed23d311d253a3dfe7",
+        "picture": "../public/images/chef2.jpg",
+        "Exxprience": 3,
+        "name": "Tara Holman",
+        "recipes": "Chiners",
+        "Fooditems": ["Fryedrice", "Burger", "Snacks","Cold Coffe","Chiken Ball"],
+        "Likes": "200",
+        "Recipe": ["Mediterranean", "Thai", "Japanese"],
+        "foodImage": ["../src/assets/foodimg/f1.jpeg", "../src/assets/foodimg/f2.jpeg", "../src/assets/foodimg/f3.jpeg","../src/assets/foodimg/f4.jpeg", "../src/assets/foodimg/f5.jpeg","../src/assets/foodimg/f6.jpeg", "../src/assets/foodimg/f7.jpeg"]
+      },
+      {
+        "_id": "671988ed23d311d253a3dfe7",
+        "picture": "../public/images/chef3.jpg",
+        "Exxprience": 5,
+        "name": "Yeans Jolly",
+        "recipes": "Chiners",
+        "Fooditems": ["Fryedrice", "Burger", "Snacks","Cold Coffe","Chiken Ball"],
+        "Likes": "208",
+        "Recipe": ["Italian", "African", "Vietnamese"],      "foodImage": ["../src/assets/foodimg/f1.jpeg", "../src/assets/foodimg/f2.jpeg", "../src/assets/foodimg/f3.jpeg","../src/assets/foodimg/f4.jpeg", "../src/assets/foodimg/f5.jpeg","../src/assets/foodimg/f6.jpeg", "../src/assets/foodimg/f7.jpeg"]
+      },
+      {
+        "_id": "681988ed23d311d253a3dfe7",
+        "picture": "../public/images/chef4.jpg",
+        "Exxprience": 6,
+        "name": "Furce Nance",
+        "recipes": "Chiners",
+        "Fooditems": ["Fryedrice", "Burger", "Snacks","Cold Coffe","Chiken Ball"],
+        "Likes": "109",
+        "Recipe": ["Korean", "Mexican", "Australian"],
+        "foodImage": ["../src/assets/foodimg/f1.jpeg", "../src/assets/foodimg/f2.jpeg", "../src/assets/foodimg/f3.jpeg","../src/assets/foodimg/f4.jpeg", "../src/assets/foodimg/f5.jpeg","../src/assets/foodimg/f6.jpeg", "../src/assets/foodimg/f7.jpeg"]
+      },
+      {
+        "_id": "691988ed23d311d253a3dfe7",
+        "picture": "../public/images/chef5.jpg",
+        "Exxprience": 2,
+        "name": "Harmin Roddes",
+        "recipes": "Chiners",
+        "Fooditems": ["Fryedrice", "Burger", "Snacks","Cold Coffe","Chiken Ball"],
+        "Likes": "600",
+        "Recipe": ["American", "Korean", "Mexican"],
+        "foodImage": ["../src/assets/foodimg/f1.jpeg", "../src/assets/foodimg/f2.jpeg", "../src/assets/foodimg/f3.jpeg","../src/assets/foodimg/f4.jpeg", "../src/assets/foodimg/f5.jpeg","../src/assets/foodimg/f6.jpeg", "../src/assets/foodimg/f7.jpeg"]
+      },
+      {
+        "_id": "691988ed23d311d253a3dfe7",
+        "picture": "../public/images/chef6.jpg",
+        "Exxprience": 7,
+        "name": "Jhones Brekham",
+        "recipes": "Chiners",
+        "Fooditems": ["Fryedrice", "Burger", "Snacks","Cold Coffe","Chiken Ball"],
+        "Likes": "305",
+        "Recipe": ["Australian", "Afgan", "French"],
+        "foodImage": ["../src/assets/foodimg/f1.jpeg", "../src/assets/foodimg/f2.jpeg", "../src/assets/foodimg/f3.jpeg","../src/assets/foodimg/f4.jpeg", "../src/assets/foodimg/f5.jpeg","../src/assets/foodimg/f6.jpeg", "../src/assets/foodimg/f7.jpeg"]
+      },
+      {
+        "_id": "711988ed23d311d253a3dfe7",
+        "picture": "../public/images/chef7.jpg",
+        "Exxprience": 10,
+        "name": "Kinme Roky",
+        "recipes": "Chiners",
+        "Fooditems": ["Fryedrice", "Burger", "Snacks","Cold Coffe","Chiken Ball"],
+        "Likes": "1020",
+        "Recipe": ["Bangladeshi", "Chinese", "Indian"],
+        "foodImage": ["../src/assets/foodimg/f1.jpeg", "../src/assets/foodimg/f2.jpeg", "../src/assets/foodimg/f3.jpeg","../src/assets/foodimg/f4.jpeg", "../src/assets/foodimg/f5.jpeg","../src/assets/foodimg/f6.jpeg", "../src/assets/foodimg/f7.jpeg"]
+      },
+      {
+        "_id": "721988ed23d311d253a3dfe7",
+        "picture": "../public/images/chef8.jpg",
+        "Exxprience": 8,
+        "name": "Reddy Rathor",
+        "recipes": "Chiners",
+        "Fooditems": ["Fryedrice", "Burger", "Snacks","Cold Coffe","Chiken Ball"],
+        "Likes": "845",
+        "Recipe": ["Bangladeshi", "Chinese", "Indian"],
+        "foodImage": ["../src/assets/foodimg/f1.jpeg", "../src/assets/foodimg/f2.jpeg", "../src/assets/foodimg/f3.jpeg","../src/assets/foodimg/f4.jpeg", "../src/assets/foodimg/f5.jpeg","../src/assets/foodimg/f6.jpeg", "../src/assets/foodimg/f7.jpeg"]
+      },
+      {
+        "_id": "731988ed23d311d253a3dfe7",
+        "picture": "../public/images/chef9.jpg",
+        "Exxprience": 6,
+        "name": "Hakson Jhon",
+        "recipes": "Chiners",
+        "Fooditems": ["Fryedrice", "Burger", "Snacks","Cold Coffe","Chiken Ball"],
+        "Likes": "690",
+        "Recipe": ["Bangladeshi", "Chinese", "Indian"],
+        "foodImage": ["../src/assets/foodimg/f1.jpeg", "../src/assets/foodimg/f2.jpeg", "../src/assets/foodimg/f3.jpeg","../src/assets/foodimg/f4.jpeg", "../src/assets/foodimg/f5.jpeg","../src/assets/foodimg/f6.jpeg", "../src/assets/foodimg/f7.jpeg"]
+      },
+      {
+        "_id": "741988ed23d311d253a3dfe7",
+        "picture": "../public/images/chef10.jpg",
+        "Exxprience": 2,
+        "name": "Tom Carlee",
+        "recipes": "Chiners",
+        "Fooditems": ["Fryedrice", "Burger", "Snacks","Cold Coffe","Chiken Ball"],
+        "Likes": "570",
+        "Recipe": ["Bangladeshi", "Chinese", "Indian"],
+        "foodImage": ["../src/assets/foodimg/f1.jpeg", "../src/assets/foodimg/f2.jpeg", "../src/assets/foodimg/f3.jpeg","../src/assets/foodimg/f4.jpeg", "../src/assets/foodimg/f5.jpeg","../src/assets/foodimg/f6.jpeg", "../src/assets/foodimg/f7.jpeg"]
+      },
+      {
+        "_id": "751988ed23d311d253a3dfe7",
+        "picture": "../public/images/chef11.jpg",
+        "Exxprience": 4,
+        "name": "Hokan Bils",
+        "recipes": "Chiners",
+        "Fooditems": ["Fryedrice", "Burger", "Snacks","Cold Coffe","Chiken Ball"],
+        "Likes": "684",
+        "Recipe": ["Bangladeshi", "Chinese", "Indian"],
+        "foodImage": ["../src/assets/foodimg/f1.jpeg", "../src/assets/foodimg/f2.jpeg", "../src/assets/foodimg/f3.jpeg","../src/assets/foodimg/f4.jpeg", "../src/assets/foodimg/f5.jpeg","../src/assets/foodimg/f6.jpeg", "../src/assets/foodimg/f7.jpeg"]
+      },
+      {
+        "_id": "761988ed23d311d253a3dfe7",
+        "picture": "../public/images/chef12.jpg",
+        "Exxprience": 9,
+        "name": "Kirby Ballard",
+        "recipes": "Chiners",
+        "Fooditems": ["Fryedrice", "Burger", "Snacks","Cold Coffe","Chiken Ball"],
+        "Likes": "1268",
+        "Recipe": ["Bangladeshi", "Chinese", "Indian"],
+        "foodImage": ["../src/assets/foodimg/f1.jpeg", "../src/assets/foodimg/f2.jpeg", "../src/assets/foodimg/f3.jpeg","../src/assets/foodimg/f4.jpeg", "../src/assets/foodimg/f5.jpeg","../src/assets/foodimg/f6.jpeg", "../src/assets/foodimg/f7.jpeg"]
+      }
+  ]
